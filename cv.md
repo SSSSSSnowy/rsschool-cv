@@ -7,7 +7,7 @@
 #### Short Bio
 Novice in programming. Currently studying JS/Front-End @RS School
 
-#### Skills (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
+#### Skills
 Novice in Python
 
 #### Code examples
